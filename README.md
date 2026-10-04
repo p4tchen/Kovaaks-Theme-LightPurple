@@ -2,7 +2,7 @@
 
 <img width="640" height="360" alt="LightPurple" src="https://github.com/user-attachments/assets/5822f56b-4364-49ec-821c-52f44f3ab892" />
 
-Download the .json file in this repository. Now, go on Steam, open up KovaaK's, and go to the settings icon in the middle right of the screen. You can see the icon in the picture below:
+Download the .json file in this repository. Now, go on Steam, open up KovaaK's Steam page, and go to the settings icon in the middle right of the screen. You can see the icon in the picture below:
 
 <img width="32" height="32" alt="settingsSteam" src="https://github.com/user-attachments/assets/8c8a1f51-414b-4631-b3a9-49430e0f7333" />
 
