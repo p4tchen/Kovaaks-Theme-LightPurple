@@ -1,6 +1,6 @@
-# Kovaaks-Theme-LightPurple
+# Kovaaks-Theme-MidnightViolet
 
-<img width="640" height="360" alt="LightPurple" src="https://github.com/user-attachments/assets/5822f56b-4364-49ec-821c-52f44f3ab892" />
+<img width="640" height="360" alt="MidnightViolet" src="https://github.com/user-attachments/assets/5822f56b-4364-49ec-821c-52f44f3ab892" />
 
 Download the .json file in this repository. Now, go on Steam, open up KovaaK's Steam page, and go to the settings icon in the middle right of the screen. You can see the icon in the picture below:
 
